@@ -1,5 +1,5 @@
 {
-  "project": "Flask ToDo App",
-  "version": 1,
-  "status": "active"
+  "status": "success",
+  "message": "Updated API response",
+  "version": 2
 }
